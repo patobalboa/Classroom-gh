@@ -10,7 +10,7 @@
 # variables, operadores matemáticos y condicionales.
 
 # Paso 1: Solicitar el nombre del usuario
-# 👉 Usa input() para pedirlo y guárdalo en una variable llamada 'nombre'
+# Usa input() para pedirlo y guárdalo en una variable llamada 'nombre'
 
 # Paso 2: Saludar al usuario usando print()
 

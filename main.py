@@ -1,36 +1,28 @@
-# ===============================
-# Semana 7 - Introducción a Python
+# ================================================
+# Tarea Semana 7 - Introducción a Python
 # Asignatura: Desarrollo de Algoritmos
-# Nombre: 
-# Fecha: 
-# ===============================
+# Profesor: Patricio Balboa
+# Nombre: ________________________
+# Fecha: _________________________
+# ================================================
 
-# 🧠 Objetivo:
-# Practicar el uso de print(), input(), variables y operadores básicos.
+# Objetivo: Escribir un programa que use entrada/salida,
+# variables, operadores matemáticos y condicionales.
 
-# EJEMPLOS DE CÓDIGO:
+# Paso 1: Solicitar el nombre del usuario
+# 👉 Usa input() para pedirlo y guárdalo en una variable llamada 'nombre'
 
-# 1. Mostrar un mensaje en pantalla
-print("Hola, este es mi primer programa en Python")
+# Paso 2: Saludar al usuario usando print()
 
-# 2. Pedir el nombre del usuario
-nombre = input("¿Cómo te llamas? ")
 
-# 3. Saludar al usuario con su nombre
-print("Hola", nombre)
+# Paso 3: Pedir la edad del usuario y convertirla a entero
 
-# 4. Pedir la edad y mostrarla
-edad = int(input("¿Cuántos años tienes? "))
-print("Tienes", edad, "años.")
 
-# 5. Calcular el año en que nació (asumiendo año actual 2025)
-anio_nacimiento = 2025 - edad
-print("Naciste aproximadamente en el año", anio_nacimiento)
+# Paso 4: Calcular en qué año nació (asume año actual = 2024)
 
-# 6. BONUS: Mostrar si es mayor o menor de edad
-if edad >= 18:
-    print("Eres mayor de edad.")
-else:
-    print("Eres menor de edad.")
 
-# 👀 Asegúrate de comentar tu código y escribirlo de forma ordenada.
+# Paso 5: Mostrar si es mayor o menor de edad usando if / else
+
+
+# Agrega comentarios donde sea necesario para explicar tu código
+# Asegúrate de que el código esté ordenado e indentado correctamente

@@ -34,7 +34,7 @@
 | -------------------------------------- | ------- |
 | Uso correcto de `print()` e `input()`  | 2 pts   |
 | Declaración y uso de variables         | 2 pts   |
-| Cálculo correcto del año de nacimiento | 2 pts   |
+| Cálculo y uso de Operadores Matemáticos | 2 pts   |
 | Uso de condicional `if`/`else`         | 2 pts   |
 | Orden, indentación y comentarios       | 2 pts   |
 

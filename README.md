@@ -20,11 +20,10 @@
 
 1. Abre el archivo `main.py`
 2. Completa tu nombre y fecha al inicio del archivo
-3. Escribe el código siguiendo los pasos comentados
-4. Prueba el programa con tus propios datos
-5. Asegúrate de comentar el código explicando qué hace cada bloque
-6. Guarda y haz **commit** de tus cambios
-7. Sube tu solución a través del repositorio creado en GitHub Classroom
+3. Completa el ejercicio
+4. Asegúrate de comentar el código explicando qué hace cada bloque
+5. Guarda y haz **commit** de tus cambios
+6. Sube tu solución a través del repositorio creado en GitHub Classroom
 
 ---
 

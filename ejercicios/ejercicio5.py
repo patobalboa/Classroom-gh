@@ -7,13 +7,19 @@
 # Tu código aquí:
 
 # Pedir el monto total:
-
+monto_total = float(input("Introduce el monto total de la compra: "))
 
 # Verificar si corresponde descuento:
+if monto_total > 50000:
+    descuento = monto_total * 0.15
+else:
+    descuento = 0
 
 
 # Calcular el monto final y el descuento si es necesario:
+monto_final = monto_total - descuento
 
 
 # Mostrar el resultado:
-# print("El total a pagar es:", ...)
+print("El total a pagar es:", monto_final)
+print("El descuento aplicado es:", descuento)

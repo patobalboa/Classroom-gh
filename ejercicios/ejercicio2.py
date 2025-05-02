@@ -8,13 +8,10 @@
 # Tu código aquí:
 
 # Pedir la base:
-
-
+base = int(input("Introduce la base del triángulo: "))
 # Pedir la altura:
-
-
+altura = int(input("Introduce la altura del triángulo: "))
 # Calcular el área:
-
-
+area = (base * altura) / 2
 # Mostrar el resultado:
-# print("El área del triángulo es:", ...)
+print("El área del triángulo es:", area)
